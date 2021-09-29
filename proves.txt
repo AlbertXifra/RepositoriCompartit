@@ -1,0 +1,11 @@
+Aquest es una prova de fitxers.txt!!!
+m'he deixat afegir algunes linies mes a aquest fitxer.
+
+           |             |
+           |             |
+           |             |
+       |                     |
+       \                    /
+        \                  /
+         \                /
+         -----------------

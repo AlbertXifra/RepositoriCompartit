@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+}
+
+h1{
+  align: center;
+  color: white;
+}
+
+  h3{
+    align: right;
+    color: pink;
+}
+
+p{
+  align: left;
+  color: yellow;
+  height: 5px;
