@@ -11,3 +11,8 @@ h1{
     align: right;
     color: pink;
 }
+
+p{
+  align: left;
+  color: yellow;
+  height: 5px;
